@@ -1,0 +1,19 @@
+{
+  "Routes": [
+    //{
+    //  "UpstreamHttpMethod": [ "GET", "POST", "Put", "Delete" ],
+    //  "DownstreamPathTemplate": "/api/news/{url}",
+    //  "DownstreamScheme": "https",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "container_adress",
+    //      "Port": container_port
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/news/{url}"
+    //}
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:5000"
+  }
+}
